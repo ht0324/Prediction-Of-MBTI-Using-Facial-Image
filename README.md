@@ -1,4 +1,4 @@
-# Prediction-of-one-s-MBTI-using-Facial-Image
+# Prediction-Of-MBTI-Using-Facial-Image
 
 Full Blog: https://medium.com/@jenny.hy.0315/prediction-of-ones-mbti-using-facial-image-dce7d1e08497
 
